@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterdetch",
+        "uuid": 4190003,
+        "checksum": "urqf36"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
